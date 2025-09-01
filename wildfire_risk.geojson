@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "wildfire_risk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Aggregated.fire.risk": null, "X..id": 30415, "Risk_Category": "Score does not apply", "Color": "#808080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.67264, 34.98427 ], [ 24.80143, 34.97428 ], [ 24.78867, 34.86478 ], [ 24.66012, 34.87475 ], [ 24.67264, 34.98427 ] ] ] } },
 { "type": "Feature", "properties": { "Aggregated.fire.risk": null, "X..id": 30416, "Risk_Category": "Score does not apply", "Color": "#808080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.80143, 34.97428 ], [ 24.93018, 34.96409 ], [ 24.91718, 34.85461 ], [ 24.78867, 34.86478 ], [ 24.80143, 34.97428 ] ] ] } },
